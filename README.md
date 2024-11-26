@@ -8,7 +8,7 @@ Welcome to the ultimate solution for launching your online casino! Our free, pre
 
 ## Key Features
 
-ViperPro-Casino is a robust and efficient backend system designed to power online casino platforms like [SwapVPN](https://swapvpn.com/). It offers a secure, scalable, and user-friendly architecture for managing casino operations. Below are its core features:
+ViperPro-Casino is a robust and efficient backend system designed to power online casino platforms like [ViperPro Casino Script](https://swapvpn.com/). It offers a secure, scalable, and user-friendly architecture for managing casino operations. Below are its core features:
 
 ### 1. Comprehensive Casino Backend
 - Handles a wide range of games, including slots, poker, and roulette.

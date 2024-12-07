@@ -45,6 +45,9 @@ Stay connected with our growing community of developers and casino operators. Jo
 ## Installation Guide
 Follow these steps to set up your casino site on a VPS:
 
+## Video installation guide
+[![Install your ViperPro Script](http://img.youtube.com/vi/eWchHUfXo_8/0.jpg)](https://youtu.be/eWchHUfXo_8?si=g1uUnP-iPAwg964J "Install your ViperPro Casino Script")
+
 ## STEPS TO INSTALL (Manual)
 - Upload the Source to you VPS
 - Change the info of the .ENV to match your server and database information
